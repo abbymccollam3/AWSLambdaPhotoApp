@@ -48,3 +48,4 @@ def lambda_handler(event, context):
 # Final testing
 # Documentation
 # Project complete
+# Basic structure
