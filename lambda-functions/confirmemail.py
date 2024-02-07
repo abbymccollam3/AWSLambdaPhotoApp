@@ -8,7 +8,8 @@ USER_POOL_ID="us-east-1_KwhJunQsM"
 CLIENT_ID="7j29g27ege8jt4aocrmo2r2oa3"
 
 cognitoclient = boto3.client('cognito-idp', region_name=REGION)
-                            
+
+# Function for            
 def lambda_handler(event, context):
     username=event['body-json']['username']
     code=event['body-json']['code']
