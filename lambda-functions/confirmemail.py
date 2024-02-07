@@ -55,3 +55,4 @@ def lambda_handler(event, context):
         "body": json.dumps(returndata)
     }
 # Initial setup
+# Email confirmation added
