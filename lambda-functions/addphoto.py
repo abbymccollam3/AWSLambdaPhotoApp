@@ -39,3 +39,4 @@ def lambda_handler(event, context):
     
     
     
+# Photo processing setup
