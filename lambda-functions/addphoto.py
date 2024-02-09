@@ -3,6 +3,8 @@ import boto3
 import time
 import datetime
 
+# Add photo to the photo gallery
+
 REGION="us-east-1"
 dynamodb = boto3.resource('dynamodb',region_name=REGION)
 table = dynamodb.Table('PhotoGallery')
