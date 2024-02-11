@@ -56,3 +56,4 @@ def lambda_handler(event, context):
     }
 # Initial setup
 # Email confirmation added
+# Added error handling
