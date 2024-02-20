@@ -43,3 +43,4 @@ def lambda_handler(event, context):
 # Fixed photo upload error
 # Added validation
 # Performance optimization
+# Added compression
