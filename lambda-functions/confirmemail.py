@@ -61,3 +61,4 @@ def lambda_handler(event, context):
 # Evening fixes
 # Added logging
 # Security update
+# Error handling
