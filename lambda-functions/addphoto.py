@@ -44,3 +44,4 @@ def lambda_handler(event, context):
 # Added validation
 # Performance optimization
 # Added compression
+# Cleanup
