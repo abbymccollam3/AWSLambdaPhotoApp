@@ -2,7 +2,7 @@ import json
 import boto3   
 from botocore.exceptions import ClientError
 
-# Confirm email
+# Confirm email and 
 REGION="us-east-1"
 USER_POOL_ID="us-east-1_KwhJunQsM"
 CLIENT_ID="7j29g27ege8jt4aocrmo2r2oa3"
