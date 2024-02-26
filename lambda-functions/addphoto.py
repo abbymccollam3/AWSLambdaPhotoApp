@@ -49,3 +49,4 @@ def lambda_handler(event, context):
 # Documentation
 # Project complete
 # Basic structure
+# S3 bucket setup
