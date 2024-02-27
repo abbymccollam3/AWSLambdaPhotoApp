@@ -62,3 +62,4 @@ def lambda_handler(event, context):
 # Added logging
 # Security update
 # Error handling
+# Major refactor
