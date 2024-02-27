@@ -67,3 +67,4 @@ def lambda_handler(event, context):
 # Performance tuning
 # Project initialization
 # API integration
+# Error handling
