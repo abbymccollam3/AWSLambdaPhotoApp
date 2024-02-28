@@ -46,3 +46,4 @@ def lambda_handler(event, context):
 # Added compression
 # Cleanup
 # Final testing
+# Documentation
